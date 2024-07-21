@@ -1,3 +1,4 @@
+<!--开关： 允许在script书写组合式API -->
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
