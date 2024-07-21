@@ -54,6 +54,14 @@ onMounted(()=>{
 + 顶层组件可以向底层组件传递方法，底层组件调用方法修改顶层组件中的数据
 
 
+## pinia（pinia.vuejs.org）
+Pinia是vue专属的最新状态管理库，是vuex状态管理工具的替代品
++ 提供更加简单的API(去掉了mutation)
++ 提供符合组合式风格的API（和vue3新语法统一）
++ 去掉了modules的概念，每一个store都是一个独立的模块
++ 搭配typescript一起使用提供可靠的类型推断
+
+安装 npm install pinia
 
 
 

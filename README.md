@@ -4,7 +4,7 @@ front end project
 
 
 ## 技术选型
-Vue3+webpack/vite+pinia
+Vue3+webpack/vite+pinia+Vue-Router
 
 
 ## 项目初始化
@@ -28,7 +28,22 @@ aurora-flow-front/
 |-- src/                    源代码
 |   |-- assets/             资源文件
 |   |   |-- logo.png
-|   |
+|   |-- apis/
+|   |   |--
+|   |-- composables/        组合函数文件夹
+|   |   |--
+|   |-- directives/         全局指令文件夹
+|   |   |--
+|   |-- router/             vue router
+|   |   |--
+|   |-- stores/
+|   |   |--
+|   |-- styles/             全局样式文件夹
+|   |   |--
+|   |-- utils/              工具函数文件夹
+|   |   |--
+|   |-- views/
+|   |   |--
 |   |-- components/         vue组件
 |   |   |-- MyComponent.vue
 |   |
