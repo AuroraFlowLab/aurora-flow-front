@@ -5,6 +5,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+
+<!-- 一级路由出口组件 -->
+<!-- <RouterView/> -->
+
   <header>
 
 <!-- 测试element-plus  自动按需引入-->
