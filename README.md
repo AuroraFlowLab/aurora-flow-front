@@ -4,7 +4,7 @@ front end project
 
 
 ## 技术选型
-Vue3+webpack/vite+
+Vue3+webpack/vite+pinia
 
 
 ## 项目初始化
