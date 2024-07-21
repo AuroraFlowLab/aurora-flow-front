@@ -4,8 +4,9 @@ front end project
 
 
 ## 技术选型
-Vue3+webpack/vite+pinia+Vue-Router
+Vue3 + webpack/vite + pinia + Vue-Router + Element-plus
 
+ElementPlus通用型组件+业务自定义组件
 
 ## 项目初始化
 vue3: create vue | 基于vite 要求 node -v>=18.3.0 (初始化执行:npm init vue@latest)   
