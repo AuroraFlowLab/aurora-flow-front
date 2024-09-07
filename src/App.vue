@@ -9,10 +9,10 @@ import HelloWorld from './components/HelloWorld.vue'
 <!-- 一级路由出口组件 -->
 <!-- <RouterView/> -->
 
-  <header>
+  <!-- <header> -->
 
 <!-- 测试element-plus  自动按需引入-->
-    <el-button type="primary">按钮</el-button>  
+    <!-- <el-button type="primary">按钮</el-button>  
 
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
@@ -24,7 +24,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
-  </header>
+  </header> -->
 
   <RouterView />
 </template>

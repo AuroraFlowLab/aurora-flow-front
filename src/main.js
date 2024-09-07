@@ -5,6 +5,9 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
+
+import "@/styles/common.scss"
+
 // 1 以App为参数生成一个应用实例对象
 //2 挂载到id为app的节点上
 
